@@ -10,5 +10,5 @@ Onde terá as seguintes telas:
 - Cadastro do Endereço e Alteração.
 - Logout
 
-
+O objetivo do aplicativo é o usuario se cadastrar, logar, visualizar o cardápio e adicionar ao carrinho, como se estivesse fazendo o pedido no restaurante.
 
