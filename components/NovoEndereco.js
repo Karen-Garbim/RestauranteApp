@@ -39,7 +39,7 @@ export default function MeusEnderecosScreen () {
         firebase.database().ref('endereço').push({tipoEndereco: tipoEndereco, logradouro: logradouro, numero: numero, bairro: bairro, cidade: cidade, estado: estado });
         alert("Registro inserido com sucesso!");
         limparCampos();
-        navigation.navigate('Meus           Endereços');
+        navigation.navigate('Meus Endereços');
 
       } catch (e){
         alert("Erro ao inserir!");
